@@ -1,0 +1,27 @@
+{
+  "name": "node-feedly-developer-client",
+  "version": "0.0.1",
+  "description": "Simple client to build personal applications for your Feedly account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedustin/node-feedly-developer-client.git"
+  },
+  "keywords": [
+    "feedly",
+    "api",
+    "client"
+  ],
+  "author": "Dustin Breuer <npm@dustin-breuer.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedustin/node-feedly-developer-client/issues"
+  },
+  "homepage": "https://github.com/thedustin/node-feedly-developer-client#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
